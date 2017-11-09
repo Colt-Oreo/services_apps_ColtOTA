@@ -3,8 +3,8 @@
   <RomName>ColtOS-ROM</RomName>
   <VersionName>ColtOS-Cookie-2.0</VersionName>
   <VersionNumber type="integer">20171109</VersionNumber>
-  <DirectUrl><![CDATA[http://ca2.androidfilehost.com/dl/iEvBGuHeaReJKNjT-W98Fg/1510482789/673791459329059960/ColtOS-Cookie-2.0_OFFICIAL-20171109-tomato.zip]]></DirectUrl>
-  <HttpUrl><![CDATA[http://www.androidfilehost.com/?fid=673791459329059960]]></HttpUrl>
+  <DirectUrl><![CDATA[https://ca2.androidfilehost.com/dl/iEvBGuHeaReJKNjT-W98Fg/1510482789/673791459329059960/ColtOS-Cookie-2.0_OFFICIAL-20171109-tomato.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673791459329059960]]></HttpUrl>
   <Android>8.0.0</Android>
   <CheckMD5>3dd41fa864032fa6623a4e7e9bfb89a1</CheckMD5>
   <FileSize type="integer">437253862</FileSize>
