@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName></RomName>
-  <VersionName></VersionName>
-  <VersionNumber type="integer">20171108</VersionNumber>
-  <DirectUrl></DirectUrl>
-  <HttpUrl></HttpUrl>
-  <Android></Android>
-  <CheckMD5></CheckMD5>
+  <RomName>ColtOS-ROM</RomName>
+  <VersionName>ColtOS-Cookie-2.0</VersionName>
+  <VersionNumber type="integer">20171109</VersionNumber>
+  <DirectUrl><![CDATA[http://ca2.androidfilehost.com/dl/iEvBGuHeaReJKNjT-W98Fg/1510482789/673791459329059960/ColtOS-Cookie-2.0_OFFICIAL-20171109-tomato.zip]]></DirectUrl>
+  <HttpUrl><![CDATA[http://www.androidfilehost.com/?fid=673791459329059960]]></HttpUrl>
+  <Android>8.0.0</Android>
+  <CheckMD5>3dd41fa864032fa6623a4e7e9bfb89a1</CheckMD5>
   <FileSize type="integer"></FileSize>
-  <Developer></Developer>
+  <Developer><![CDATA[Rakesh Batra]]></Developer>
+  <WebsiteURL><![CDATA[http://plus.google.com/communities/102067248475500399675]]></WebsiteURL>
+  <DonateURL nil="true" />
   <Changelog>
+    Test ColtOTA
   </Changelog>
 </ROM>
